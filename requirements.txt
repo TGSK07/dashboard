@@ -4,3 +4,4 @@ pandas==2.2.3
 plotly==6.7.0
 pytz==2026.2
 streamlit==1.58.0
+plotly-express==0.4.1
